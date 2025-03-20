@@ -1,3 +1,7 @@
+## Kerning
+
+PowerPoint *only* supports the legacy `kern` table. See [fontations#1183](https://github.com/googlefonts/fontations/issues/1183).
+
 ## Embeding
 
 from https://forum.glyphsapp.com/t/powerpoint-pc-embedding-bug/32030
