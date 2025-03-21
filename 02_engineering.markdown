@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Font Engineering
-permalink: /fontengineering/
+permalink: /engineering
 ---
 
-Still at the beginning...
+- [Useful Links](/engineering/links)

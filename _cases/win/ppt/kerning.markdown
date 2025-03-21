@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PowerPoint Kerning
-permalink: /cases/win/ppt/kerning
+permalink: ./win/ppt/kerning
 ---
 
 ## Kerning
