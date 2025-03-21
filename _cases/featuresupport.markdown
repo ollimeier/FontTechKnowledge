@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenType Feature Support
-permalink: /cases/featuresupport
+permalink: cases/featuresupport
 ---
 
 # A list of app versions and their supported features.

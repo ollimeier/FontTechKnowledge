@@ -6,7 +6,7 @@ permalink: /cases
 
 Knowledge related to applications:
 
-- [Features supported by Apps]({{ site.url }}/cases/featuresupport)
+- [Features supported by Apps](/cases/featuresupport)
 
 Microsoft:
-- [PowerPoint kerning]({{ site.url }}/cases/win/ppt/kerning)
+- [PowerPoint kerning](/cases/win/ppt/kerning)

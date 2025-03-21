@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Font Engineering Links
-permalink: ./links
+permalink: engineering/links
 ---
 
 # Font Quality Links
