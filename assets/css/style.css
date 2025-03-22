@@ -34,3 +34,15 @@ body {
     color: var(--primary-color) !important;
     font-size: 26px !important;
 }
+
+.site-footer {
+    padding: 10px !important;
+}
+
+.footer-col {
+    margin-bottom: unset !important;
+}
+
+.footer-col > p {
+    margin-bottom: unset !important;
+}
