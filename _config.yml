@@ -21,7 +21,7 @@
 title: FontTechKnowledge
 # email: your-email@example.com
 description: A place to collect all the little quirks with fonts and software
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fonttechknowledge" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  schriftgestalt ollimeier
 

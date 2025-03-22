@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Type Design
-permalink: /design
+permalink: design
 ---
 
 Still at the beginning...
