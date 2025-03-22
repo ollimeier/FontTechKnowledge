@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cases
-permalink: cases
+permalink: /cases
 ---
 
 Knowledge related to applications:
