@@ -4,11 +4,11 @@ title: Font Engineering
 permalink: engineering
 ---
 
-- [Useful Links](/engineering/links)
+- [Useful Links]({{ site.url }}/{{ site.baseurl }}/engineering/links)
 
 
 ### Coding for Font Engineers
 
-- [Python](/engineering/coding/python)
-- [JavaScript](/engineering/coding/javascript)
-- [Rust](/engineering/coding/rust)
+- [Python]({{ site.url }}/{{ site.baseurl }}/engineering/coding/python)
+- [JavaScript]({{ site.url }}/{{ site.baseurl }}/engineering/coding/javascript)
+- [Rust]({{ site.url }}/{{ site.baseurl }}/engineering/coding/rust)
