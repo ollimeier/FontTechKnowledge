@@ -1,0 +1,12 @@
+.current {
+  color: green;
+}
+
+@font-face {
+  font-family: "CustomFont";
+  src: url("/path-to-font/CustomFont.woff2") format("woff2"), url("/path-to-font/CustomFont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=styles.css.map */
