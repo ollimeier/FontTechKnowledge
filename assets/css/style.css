@@ -1,0 +1,36 @@
+:root {
+    --primary-color: #111;
+}
+
+@font-face {
+    font-family: 'Case';
+    src: url('../fonts/FwTRIAL-CaseVAR.woff2') format('woff2');
+    font-weight: 50 1000;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Case';
+    src: url('../fonts/FwTRIAL-CaseVAR-Italic.woff2') format('woff2');
+    font-weight: 50 1000;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'McQueen';
+    src: url('../fonts/FwTRIAL-McQueenVAR.woff2') format('woff2');
+    font-weight: 200 1000;
+}
+
+body {
+    font-family: 'Case', serif !important;
+    /* color: var(--primary-color) !important; */
+}
+
+.site-title, .page-link, h1, h2, h3, h4, h5, h6 {
+    font-family: 'McQueen', serif !important;
+    font-weight: 800 !important;
+    font-variation-settings: 'opsz' 60;
+    color: var(--primary-color) !important;
+    font-size: 26px !important;
+}

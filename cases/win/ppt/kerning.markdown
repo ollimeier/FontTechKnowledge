@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PowerPoint Kerning
+nav_exclude: true
 ---
 
 ## Kerning
