@@ -1,12 +1,9 @@
-<<<<<<<< Updated upstream:Office/PowerPoint.md
-========
 ---
 layout: page
 title: PowerPoint Kerning
 nav_exclude: true
 ---
 
->>>>>>>> Stashed changes:cases/win/ppt/kerning.markdown
 ## Kerning
 
 PowerPoint *only* supports the legacy `kern` table. See [fontations#1183](https://github.com/googlefonts/fontations/issues/1183).
