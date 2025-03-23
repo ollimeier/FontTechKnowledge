@@ -10,3 +10,4 @@ Knowledge related to applications:
 
 Microsoft:
 - [PowerPoint kerning]({{ site.baseurl }}/cases/win/ppt/kerning)
+- [PowerPoint font embedding]({{ site.baseurl }}/cases/win/ppt/embedding)

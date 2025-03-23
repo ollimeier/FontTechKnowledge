@@ -1,26 +1,18 @@
 ---
 layout: page
 title: PowerPoint Kerning
-nav_exclude: true
 ---
 
-## Kerning
+### Only legacy `kern` table
 
 PowerPoint *only* supports the legacy `kern` table. See [fontations#1183](https://github.com/googlefonts/fontations/issues/1183).
 
-## Embeding
+### GPOS kerning will be taken if Variable font
+It seems, that for a VAR font the default opentype feature are active, which includes GPOS kerning:
+[Glyphsapp Forum ppt-microsoft-opentype-and-gpos-kerning-work-with-vf](https://forum.glyphsapp.com/t/ppt-microsoft-opentype-and-gpos-kerning-work-with-vf/31467).
 
-from https://forum.glyphsapp.com/t/powerpoint-pc-embedding-bug/32030
+This is a very interesting finding and may need some more investigation:
+- Why does this work? 
+- Is it triggert by a specific table? 
+- And if so, would it be possible to add such dummy table to a static font as well to trigger PPT to support opentype feature?
 
-### Observed behaviour
-Fonts embedded are replaced by fallback fonts when the document is re-opened.
-
-### What should happen (expected behaviour):
-— Seeing the picked fonts when fonts are not locally installed.
-
-### Steps to reproduce:
-— On Windows 11, with the last version of PPT installed (2410 (Build 18129.20116)).
-— Create a new PPT document, set a text using a non system font on a slide, save with font embedding on. (Even better: modify a master slide and set the headline or text style using a non-system font.)
-— Close PPT.
-— Remove the fonts from the system;
-— Reopen the file.
