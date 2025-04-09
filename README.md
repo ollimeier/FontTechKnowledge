@@ -4,7 +4,7 @@ A place to collect all the little quirks with fonts and software
 
 This homepage uses [jekyll minima](https://github.com/jekyll/minima)
 
-Hosted at [https://ollimeier.github.io/FontTechKnowledge/](https://ollimeier.github.io/FontTechKnowledge/)
+Hosted at [https://schriftgestalt.github.io/FontTechKnowledge/](https://schriftgestalt.github.io/FontTechKnowledge/)
 -> This should be a general domain, not personal.
 
 
