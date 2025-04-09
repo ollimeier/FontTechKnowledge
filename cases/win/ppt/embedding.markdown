@@ -1,10 +1,9 @@
-## Kerning
+---
+layout: page
+title: PowerPoint Embedding
+---
 
-PowerPoint *only* supports the legacy `kern` table. See [fontations#1183](https://github.com/googlefonts/fontations/issues/1183).
-
-## Embeding
-
-from https://forum.glyphsapp.com/t/powerpoint-pc-embedding-bug/32030
+from [GlyphsApp Forum powerpoint-pc-embedding-bug](https://forum.glyphsapp.com/t/powerpoint-pc-embedding-bug/32030).
 
 ### Observed behaviour
 Fonts embedded are replaced by fallback fonts when the document is re-opened.
