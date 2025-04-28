@@ -4,4 +4,4 @@ title: Type Design
 permalink: design
 ---
 
-Still at the beginning...
+- [Useful Links]({{ site.baseurl }}/design/links)
